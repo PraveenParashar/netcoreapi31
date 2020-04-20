@@ -1,0 +1,9 @@
+C:\Users\Praveen\source\repos\Core31API\DTO\bin\Release\netcoreapp3.1\DTO.deps.json
+C:\Users\Praveen\source\repos\Core31API\DTO\bin\Release\netcoreapp3.1\DTO.dll
+C:\Users\Praveen\source\repos\Core31API\DTO\bin\Release\netcoreapp3.1\DTO.pdb
+C:\Users\Praveen\source\repos\Core31API\DTO\obj\Release\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\Praveen\source\repos\Core31API\DTO\obj\Release\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Praveen\source\repos\Core31API\DTO\obj\Release\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\Praveen\source\repos\Core31API\DTO\obj\Release\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\Praveen\source\repos\Core31API\DTO\obj\Release\netcoreapp3.1\DTO.dll
+C:\Users\Praveen\source\repos\Core31API\DTO\obj\Release\netcoreapp3.1\DTO.pdb

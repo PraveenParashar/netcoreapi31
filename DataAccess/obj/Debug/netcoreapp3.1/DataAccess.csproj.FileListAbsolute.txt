@@ -1,0 +1,14 @@
+C:\Users\Praveen\source\repos\Core31API\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Praveen\source\repos\Core31API\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Praveen\source\repos\Core31API\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Praveen\source\repos\Core31API\DataAccess\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Praveen\source\repos\Core31API\DataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Praveen\source\repos\Core31API\DataAccess\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Praveen\source\repos\Core31API\DataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Praveen\source\repos\Core31API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Praveen\source\repos\Core31API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Praveen\source\repos\Core31API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Praveen\source\repos\Core31API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Praveen\source\repos\Core31API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Praveen\source\repos\Core31API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Praveen\source\repos\Core31API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
